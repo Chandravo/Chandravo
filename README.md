@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chandravo
-- 👀 I’m interested in DSA and Backend Web Development
+- 👀 I’m interested in DSA and Backend Web Development in Django
 - 🧑‍💻 I'm comfortable in Python and C++, but I can work with Java, Javascript and C.
 - 🌱 I’m currently learning backend development  with Django
 - 📫 How to reach me --> chandravob2003@gmail.com, @chandravob (on instagram and twitter)
