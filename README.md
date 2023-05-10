@@ -14,6 +14,7 @@
 
 
 ---
+<img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandravo&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
 [![](https://visitcount.itsvg.in/api?id=Chandravo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
